@@ -1,0 +1,1 @@
+C:\Users\gbern\documents\visual studio 2015\Projects\BackgroundApplication\BackgroundApplication\BackgroundApplication.csproj;arm
